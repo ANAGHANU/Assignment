@@ -1,0 +1,9 @@
+Name Employee-ID Salary Age State
+Mike 01 20000 23 Karnataka
+John 02 25000 26 Karnataka
+Sam 03 20000 22 TamilNadu
+Amal 04 20000 21 Kerala
+Anagh 05 25000 21 Kerala
+Abin 06 20000 20 Karnataka
+Albin 07 22000 24 Karnataka
+Mike 08 25000 26 Karnataka

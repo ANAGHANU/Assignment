@@ -1,0 +1,10 @@
+import pandas as pd
+from tabulate import tabulate
+
+file=open('Book1.txt','r')
+table=[]
+for line in file:
+    listStrip=line.strip()
+    listSplit=listStrip.split()
+    table.append(listSplit)
+print(tabulate(table, tablefmt="fancy_grid",showindex="always"))
